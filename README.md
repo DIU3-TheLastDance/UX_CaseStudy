@@ -21,7 +21,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Juan Hernández Sánchez-Agesta     😎     
- * :bust_in_silhouette:  Lucía Torres Larios     👩‍🏫
+ * :bust_in_silhouette:  Lucía Torres Larios     🕺
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -44,7 +44,30 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+## Objetivo de la Investigación
+
+El objetivo de esta investigación es comprender cómo los usuarios interactúan con una plataforma ya existente dedicada al reciclaje y la artesanía, con el fin de mejorar su experiencia de uso. La plataforma está orientada a artesanos que buscan vender sus productos, consumidores interesados en adquirir productos reciclados y organizaciones que promueven la sostenibilidad. Queremos identificar los puntos de fricción actuales y las oportunidades de mejora para garantizar que los usuarios encuentren lo que necesitan de manera sencilla y efectiva.
+
+### Objetivo de la Investigación
+
+El objetivo es evaluar la experiencia de los usuarios con la plataforma en su estado actual, entendiendo sus necesidades, expectativas y las dificultades que enfrentan al interactuar con ella. Esto nos permitirá proponer cambios que mejoren la usabilidad y la navegación, haciéndola más intuitiva y eficiente.
+
+### Selección de Usuarios
+
+Para obtener una visión completa de la experiencia de la plataforma, seleccionaremos diferentes tipos de usuarios:
+
+- **Artesanos y creadores** que utilizan la plataforma para vender sus productos o compartir su trabajo.
+- **Consumidores ecológicos** que buscan comprar productos hechos con materiales reciclados.
+- **Organizaciones o comunidades** interesadas en promover proyectos educativos o sostenibles a través de la plataforma.
+
+### Metodología
+
+La investigación se llevará a cabo utilizando varios métodos:
+
+- **Pruebas de usabilidad** con usuarios actuales para observar cómo navegan por la plataforma y qué dificultades encuentran.
+- **Evaluación heurística** de la interfaz, comparándola con principios establecidos de diseño de interfaces de usuario.
+
+El análisis de estos datos nos ayudará a entender las áreas problemáticas y desarrollar soluciones que mejoren la experiencia general de los usuarios, haciendo que la plataforma sea más accesible, fácil de usar y adaptada a las expectativas de quienes la utilizan.
 
 
 ### 1.b Competitive Analysis
