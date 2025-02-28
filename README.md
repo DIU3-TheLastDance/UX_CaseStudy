@@ -23,7 +23,6 @@ Miembros:
  * :bust_in_silhouette:  Juan Hernández Sánchez-Agesta     😎     
  * :bust_in_silhouette:  Lucía Torres Larios     🕺
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
@@ -36,9 +35,6 @@ Miembros:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -74,7 +70,27 @@ El análisis de estos datos nos ayudará a entender las áreas problemáticas y 
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Este documento presenta el análisis competitivo de la página web **Kerarqueo**, dedicada a la venta de cerámica artesanal inspirada en la historia y la organización de talleres creativos.  
+
+## 📌 **Motivación del Análisis**  
+Para comprender mejor el mercado y detectar oportunidades de mejora, comparamos **Kerarqueo** con dos plataformas similares en Granada, evaluando distintos aspectos clave.  
+
+## 📊 **Criterios de Evaluación**  
+Se analizaron los siguientes factores:  
+- **Modelo de negocio** 💼  
+- **Aspectos tecnológicos** 💻  
+- **Funcionalidad y experiencia de usuario** 🎨  
+- **Usabilidad y accesibilidad** 🏗️  
+- **Factores subjetivos (narrativa, identidad de marca, impacto visual, etc.)** 🌟  
+
+Para ello, utilizamos un sistema de puntuación por estrellas (**⭐**), desde 1 estrella (**⭐**) hasta 5 estrellas (**⭐⭐⭐⭐⭐**), reflejando el nivel de desempeño en cada categoría.  
+
+## 📌 **Formato del Análisis**  
+Los resultados se presentan en una **matriz comparativa**, lo que permite visualizar de manera rápida y efectiva los puntos fuertes y las áreas de mejora de **Kerarqueo** frente a su competencia.  
+
+## 🎯 **Objetivo**  
+Este análisis proporciona información valiosa para la optimización de la plataforma, permitiendo tomar decisiones estratégicas que mejoren la experiencia de usuario, la conversión y la diferenciación en el mercado artesanal digital.  
+
 
 
 ### 1.c Personas
