@@ -44,11 +44,8 @@ Miembros:
 
 El objetivo de esta investigación es comprender cómo los usuarios interactúan con una plataforma ya existente dedicada al reciclaje y la artesanía, con el fin de mejorar su experiencia de uso. La plataforma está orientada a artesanos que buscan vender sus productos, consumidores interesados en adquirir productos reciclados y organizaciones que promueven la sostenibilidad. Queremos identificar los puntos de fricción actuales y las oportunidades de mejora para garantizar que los usuarios encuentren lo que necesitan de manera sencilla y efectiva.
 
-### Objetivo de la Investigación
 
-El objetivo es evaluar la experiencia de los usuarios con la plataforma en su estado actual, entendiendo sus necesidades, expectativas y las dificultades que enfrentan al interactuar con ella. Esto nos permitirá proponer cambios que mejoren la usabilidad y la navegación, haciéndola más intuitiva y eficiente.
-
-### Selección de Usuarios
+## Selección de Usuarios
 
 Para obtener una visión completa de la experiencia de la plataforma, seleccionaremos diferentes tipos de usuarios:
 
@@ -56,7 +53,7 @@ Para obtener una visión completa de la experiencia de la plataforma, selecciona
 - **Consumidores ecológicos** que buscan comprar productos hechos con materiales reciclados.
 - **Organizaciones o comunidades** interesadas en promover proyectos educativos o sostenibles a través de la plataforma.
 
-### Metodología
+## Metodología
 
 La investigación se llevará a cabo utilizando varios métodos:
 
@@ -66,16 +63,16 @@ La investigación se llevará a cabo utilizando varios métodos:
 El análisis de estos datos nos ayudará a entender las áreas problemáticas y desarrollar soluciones que mejoren la experiencia general de los usuarios, haciendo que la plataforma sea más accesible, fácil de usar y adaptada a las expectativas de quienes la utilizan.
 
 
-### 1.b Competitive Analysis
+## 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
 Este documento presenta el análisis competitivo de la página web **Kerarqueo**, dedicada a la venta de cerámica artesanal inspirada en la historia y la organización de talleres creativos.  
 
-## 📌 **Motivación del Análisis**  
+### 📌 **Motivación del Análisis**  
 Para comprender mejor el mercado y detectar oportunidades de mejora, comparamos **Kerarqueo** con dos plataformas similares en Granada, evaluando distintos aspectos clave.  
 
-## 📊 **Criterios de Evaluación**  
+### 📊 **Criterios de Evaluación**  
 Se analizaron los siguientes factores:  
 - **Modelo de negocio** 💼  
 - **Aspectos tecnológicos** 💻  
@@ -85,29 +82,39 @@ Se analizaron los siguientes factores:
 
 Para ello, utilizamos un sistema de puntuación por estrellas (**⭐**), desde 1 estrella (**⭐**) hasta 5 estrellas (**⭐⭐⭐⭐⭐**), reflejando el nivel de desempeño en cada categoría.  
 
-## 📌 **Formato del Análisis**  
+### 📌 **Formato del Análisis**  
 Los resultados se presentan en una **matriz comparativa**, lo que permite visualizar de manera rápida y efectiva los puntos fuertes y las áreas de mejora de **Kerarqueo** frente a su competencia.  
 
-## 🎯 **Objetivo**  
+### 🎯 **Objetivo**  
 Este análisis proporciona información valiosa para la optimización de la plataforma, permitiendo tomar decisiones estratégicas que mejoren la experiencia de usuario, la conversión y la diferenciación en el mercado artesanal digital.  
 
 
 
-### 1.c Personas
+## 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+### Persona 1  
+![Persona 1](P1/images/p1.png)  
+**Nombre:** [Lourdes Arco]  
+**Descripción:** [Breve descripción de la persona, sus características y necesidades]  
 
+---  
 
-### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+### Persona 2  
+![Persona 2](P1/images/p2.png)  
+**Nombre:** [Jose Fernandez]  
+**Descripción:** [Breve descripción de la persona, sus características y necesidades]  
+
+## 1.d User Journey Map
+![Método UX](P1/images/jm1.png) 
+
 ----
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
-### 1.e Usability Review
+## 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
