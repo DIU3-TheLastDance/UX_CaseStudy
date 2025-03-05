@@ -88,40 +88,51 @@ Los resultados se presentan en una **matriz comparativa**, lo que permite visual
 ### 🎯 **Objetivo**  
 Este análisis proporciona información valiosa para la optimización de la plataforma, permitiendo tomar decisiones estratégicas que mejoren la experiencia de usuario, la conversión y la diferenciación en el mercado artesanal digital.  
 
+-----
+![Método UX](/P1/images/Competitor%20Analysis.png)
+
 
 
 ## 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+Estas 2 personas recogen los usuarios típicos que podrían usar la plataforma **Kerarqueo**, basándonos en la información recopilada en la investigación de usuarios.
+Además de las características demográficas, se incluyen detalles sobre sus necesidades, objetivos y frustraciones al utilizar la plataforma.
+
 
 ### Persona 1  
 ![Persona 1](P1/images/p1.png)  
-**Nombre:** [Lourdes Arco]  
-**Descripción:** [Breve descripción de la persona, sus características y necesidades]  
+**Nombre:** Lourdes Arco
+**Descripción:** Breve descripción de la persona, sus características y necesidades  
 
 ---  
 
 ### Persona 2  
 ![Persona 2](P1/images/p2.png)  
-**Nombre:** [Jose Fernandez]  
-**Descripción:** [Breve descripción de la persona, sus características y necesidades]  
+**Nombre:** Jose Fernandez
+**Descripción:** Breve descripción de la persona, sus características y necesidades 
 
 ## 1.d User Journey Map
+
+Estos documentos presentan el **User Journey Map** de dos usuarios que interactúan con la plataforma **Kerarqueo**.
+En ellos se detallan las experiencias de Lourdes y Jose al utilizar la plataforma, desde la primera interacción hasta la compra de un producto o contratación de un servicio.
+Hemos considerado las experiencias de Jose y Lourdes como las experiencias más comunes y representativas de los usuarios de este tipo de plataformas, destacando los puntos de contacto con la marca y las emociones asociadas a cada etapa del proceso.
+
 ![Método UX](P1/images/jm1.png) 
 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![Método UX](P1/images/jm2.png)
 
 
 ## 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación.
+ - Enlace al documento:  (xls/pdf) 
+ - URL y Valoración numérica obtenida: 
+ - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
 <br>
 
