@@ -62,6 +62,7 @@ La investigación se llevará a cabo utilizando varios métodos:
 
 El análisis de estos datos nos ayudará a entender las áreas problemáticas y desarrollar soluciones que mejoren la experiencia general de los usuarios, haciendo que la plataforma sea más accesible, fácil de usar y adaptada a las expectativas de quienes la utilizan.
 
+- **Enlace al documento:** [P1-User-Research-Plan.pdf](/P1/P1-2b%20User%20Research%20Plan%20Template.docx.pdf)
 
 ## 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
@@ -93,6 +94,7 @@ Este análisis proporciona información valiosa para la optimización de la plat
 
 
 
+
 ## 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
@@ -103,14 +105,14 @@ Además de las características demográficas, se incluyen detalles sobre sus ne
 ### Persona 1  
 ![Persona 1](P1/images/p1.png)  
 **Nombre:** Lourdes Arco
-**Descripción:** Breve descripción de la persona, sus características y necesidades  
+**Descripción:** "Me encanta perderme en la historia de los objetos y crear algo único con mis propias manos. La naturaleza y el pasado siempre inspiran lo que hago."  
 
 ---  
 
 ### Persona 2  
 ![Persona 2](P1/images/p2.png)  
 **Nombre:** Jose Fernandez
-**Descripción:** Breve descripción de la persona, sus características y necesidades 
+**Descripción:** “Soy muy amigo de mis amigos y me encanta compartir tiempo con quienes más quiero”
 
 ## 1.d User Journey Map
 
@@ -129,10 +131,25 @@ Hemos considerado las experiencias de Jose y Lourdes como las experiencias más 
 ![Método UX](img/usabilityReview.png) 
 ----
 
-El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación.
- - Enlace al documento:  (xls/pdf) 
- - URL y Valoración numérica obtenida: 
- - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación.  
+
+- **Enlace al documento:** [P1-7a Usability-review-template.pdf](/P1/P1-7a%20Usability-review-template.pdf)  
+- **URL y Valoración numérica obtenida:** 59/100 (Moderate)  
+- **Comentario sobre la revisión:**  
+La web presenta una estructura adecuada, pero problemas graves en la experiencia de compra y asistencia al usuario, lo que afecta su usabilidad general.
+ Mejoras en la navegación, la búsqueda y el carrito podrían optimizar significativamente la experiencia.  
+### **Puntos Fuertes**  
+✔ **Inicio de sesión claro y bien estructurado** – Facilita la entrada de los usuarios y muestra el propósito de la página de manera efectiva.  
+✔ **Enlaces bien etiquetados y navegación predecible** – Ayuda a los usuarios a orientarse fácilmente dentro del sitio.  
+✔ **Mensajes de error claros y bien ubicados** – Se muestran junto al campo a corregir, mejorando la experiencia del usuario.  
+✔ **Se proporciona un correo electrónico y teléfono para asistencia** – Brinda una forma directa de contacto en caso de dudas o problemas.  
+
+### **Puntos Débiles**  
+❌ **El carrito de compras no almacena productos** – Hace imposible completar la experiencia de compra.  
+❌ **No hay función de búsqueda general** – Solo permite buscar dentro del catálogo, limitando la navegación.  
+❌ **No se aceptan faltas de ortografía en la búsqueda** – Genera errores innecesarios y dificulta encontrar productos.  
+❌ **No hay ayuda en línea ni instrucciones en formularios** – Falta orientación para los usuarios, lo que puede generar confusión.  
+
 
 <br>
 
