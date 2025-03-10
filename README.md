@@ -104,15 +104,24 @@ Además de las características demográficas, se incluyen detalles sobre sus ne
 
 ### Persona 1  
 ![Persona 1](P1/images/p1.png)  
-**Nombre:** Lourdes Arco
+**Nombre:** Lourdes Arco  
+
 **Descripción:** "Me encanta perderme en la historia de los objetos y crear algo único con mis propias manos. La naturaleza y el pasado siempre inspiran lo que hago."  
+
+**Justificación:** Lourdes representa a un tipo de usuario joven, que busca un hobby que satisfaga su tiempo libre y que al mismo tiempo le aporte algo de valor cultural, 
+histórico en este caso. Su pasión por la historia y la naturaleza refleja el perfil de usuarios que buscan inspiración en elementos tradicionales y sostenibles, lo cual es 
+fundamental para la plataforma enfocada en reciclaje y artesanía.
 
 ---  
 
 ### Persona 2  
 ![Persona 2](P1/images/p2.png)  
 **Nombre:** Jose Fernandez
-**Descripción:** “Soy muy amigo de mis amigos y me encanta compartir tiempo con quienes más quiero”
+
+**Descripción:** “Soy muy amigo de mis amigos y me encanta compartir tiempo con quienes más quiero”  
+
+**Justificación:** Jose representa a los consumidores ya independizados, con casa propia, que buscan en la artesanía la solución decorativa para su hogar. Su gusto por la decoración y su personalidad 
+a la hora de hacerlo, hace que sea el tipo de usuario que busca productos únicos y personalizados, lo cual es fundamental para la plataforma enfocada en la artesanía y la cerámica.
 
 ## 1.d User Journey Map
 
@@ -139,7 +148,7 @@ El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un chec
 La web presenta una estructura adecuada, pero problemas graves en la experiencia de compra y asistencia al usuario, lo que afecta su usabilidad general.
  Mejoras en la navegación, la búsqueda y el carrito podrían optimizar significativamente la experiencia.  
 ### **Puntos Fuertes**  
-✔ **Inicio de sesión claro y bien estructurado** – Facilita la entrada de los usuarios y muestra el propósito de la página de manera efectiva.  
+✔ **Página de inicio clara y bien estructurada** – Facilita la entrada de los usuarios y muestra el propósito de la página de manera efectiva.  
 ✔ **Enlaces bien etiquetados y navegación predecible** – Ayuda a los usuarios a orientarse fácilmente dentro del sitio.  
 ✔ **Mensajes de error claros y bien ubicados** – Se muestran junto al campo a corregir, mejorando la experiencia del usuario.  
 ✔ **Se proporciona un correo electrónico y teléfono para asistencia** – Brinda una forma directa de contacto en caso de dudas o problemas.  
