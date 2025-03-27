@@ -9,12 +9,13 @@ Actualizado: 26/02/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+**"Tu huella en la cerámica"** 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
-
+Introducimos un sistema de "Cerámica a la carta", donde los clientes
+pueden diseñar digitalmente su propia pieza, eligiendo formas, colores y
+acabados, y luego un artesano la crea a mano según sus especificaciones.
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
@@ -170,24 +171,73 @@ La web presenta una estructura adecuada, pero problemas graves en la experiencia
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Para proponer el máximo valor posible para los usuarios, vamos a evaluar las necesidades y deseo de los usuarios a través de algunas herramienta socmo el empathy map (para cada uno de los usuarios )y el feedback capture grid (conclusión de lo observado en el empathy map).
 
+### Empathy Map de Lourdes Arco
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Método UX](P2/images/empathy_map_lourdes.png)
+
+### Empathy Map de Jose Fernández
+
+![Método UX](P2/images/empathy_map_jose.png) 
   
     
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Tras analizar estas observaciones, expresamos en el siguiente feedback capture grid las conclusones más importantes , en forma de aspectos positivos, críticas constructivas preguntas de usuarios e ideas de mejora.
+
+![Método UX](P2/images/feedback_capture_grid.jpeg) 
+
+
+La página de Kerarqueo ofrece una experiencia atractiva y bien organizada para los amantes de la cerámica artesanal y quienes buscan participar en talleres creativos. Sin embargo, existen algunas áreas de mejora, como la inexistencia de un sistema de búsqueda en la página, la falta carrito de compra eficiente y la imposibilidad de crear un perfil de usuario.
+
+Para mejorar la plataforma, se podría implementar un carrito de compras persistente, optimizar la función de búsqueda, permitir la personalización de los productos y ofrecer la opción de ver y reservar plazas en los talleres. Estas mejoras no solo facilitarían la navegación, sino que darían como resultado una imagen de Kerarqueo como un referente en la venta de cerámica artesanal y experiencias creativas.
+
+Como propuesta de valor para la mejora del sitio web nos centraremos en la personalización de la experiencia del usuario, ofreciendo la opción de diseñar digitalmente su propia pieza, eligiendo formas, colores y acabados, lo que añadiría un toque único.
+
+Kerarqueo no solo optimizaría su plataforma, sino que fortalecería el vínculo con su comunidad, ofreciendo una experiencia más acorde con las expectativas de sus clientes.
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+**"Tu huella en la cerámica"**
+
+
+Queremos que Kerarqueo no solo venda cerámica artesanal, sino que
+transforme la compra en una experiencia interactiva y personalizada.
+Introducimos un sistema de "Cerámica a la carta", donde los clientes
+pueden diseñar digitalmente su propia pieza, eligiendo formas, colores y
+acabados, y luego un artesano la crea a mano según sus especificaciones.
+
+Problema que resuelve:
+Muchas personas quieren piezas de cerámica personalizadas, pero no
+encuentran opciones accesibles sin contactar directamente a un artesano,
+lo que puede ser costoso, tardado o complicado. Por otro lado, los
+ceramistas a menudo tienen dificultades para diferenciarse en un mercado
+saturado y encontrar clientes interesados en encargos únicos.
+
+La propuesta se realizaría a través de la introducción de una
+herramienta digital de personalización,un configurador en la web donde
+los usuarios pueden elegir entre diferentes modelos base y
+personalizarlos con colores, texturas y acabados en tiempo real.
+
+Se implementaría un sistema de conexión directa con el artesano: Una vez
+diseñado el producto, el cliente puede comunicarse con el ceramista
+asignado para ajustes finales y conocer el proceso de elaboración -> **"Tu huella en la cerámica"** : Posibilidad de enviar un dibujo, firma o grabado
+digital que será plasmado en la pieza final.
+
+Impacto esperado:
+     -Para los compradores: Experiencia única de co-creación, con una
+pieza exclusiva sin necesidad de conocimientos en cerámica.
+     -Para los artesanos: Nuevas oportunidades de ingresos con encargos
+personalizados y contacto directo con clientes interesados en su
+trabajo.
+     -Para el negocio: Diferenciación en el mercado, fidelización de
+clientes y generación de contenido atractivo a través de la interacción
+con los usuarios.
+
+![Método UX](P2/images/canvas_propuesta.png) 
+
 
 
 
