@@ -165,7 +165,6 @@ La web presenta una estructura adecuada, pero problemas graves en la experiencia
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
@@ -245,18 +244,76 @@ con los usuarios.
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
+### User Roles & Task Priorities
+
+![Método UX](P2/images/task_flow.png) 
+
+En el proceso de personalización y compra de cerámica artesanal, intervienen tres tipos de usuarios principales:
+
+- **Cliente**: Personaliza y compra la pieza.
+- **Artesano**: Fabrica la pieza personalizada.
+- **Administrador**: Gestiona la plataforma y la conexión entre clientes y artesanos.
+
+### Funciones y Prioridades
+La siguiente tabla muestra la importancia relativa de cada función para cada rol, donde:
+-  **H** (Alta)
+-  **M** (Media)
+-  **L** (Baja)
+
+| Función                           | Cliente | Artesano | Administrador |
+|-----------------------------------|---------|----------|--------------|
+| **Registrarse**                   | H       | H        | H            |
+| **Iniciar sesión**                | H       | H        | H            |
+| **Ver opciones de personalización** | H       | M        | M            |
+| **Personalizar una pieza**        | H       | M        | L            |
+| **Previsualizar diseño**          | H       | M        | L            |
+| **Solicitar ajustes al artesano** | M       | H        | L            |
+| **Confirmar y pagar pedido**      | H       | M        | L            |
+| **Recibir notificaciones del pedido** | H       | M        | L            |
+| **Fabricar la pieza personalizada** | L       | H        | L            |
+| **Gestionar pedidos**             | L       | M        | H            |
+| **Coordinar envíos y entregas**   | M       | M        | H            |
+| **Administrar usuarios y artesanos** | L       | L        | H            |
+
+###  Resumen
+- **Cliente**: Prioriza la personalización y compra.
+- **Artesano**: Se enfoca en la producción y ajustes con el cliente.
+- **Administrador**: Gestiona la plataforma, usuarios y logística.
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Método UX](P2/images/sitemap.jpeg) 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+
+### Términos y Significados
+
+| TÉRMINO                    | SIGNIFICADO |
+|-----------------------------|-------------|
+| **Página de inicio**        | Página principal con acceso al resto de funcionalidades |
+| **Cuenta**                  | Página para la gestión de cuentas de usuario |
+| **Inicio de sesión**        | Permite acceder a la cuenta del usuario |
+| **Perfil**                  | Página que contiene la información personal del usuario |
+| **Registro**                | Permite crear una cuenta nueva |
+| **¿Quiénes somos?**         | Página con información sobre la empresa |
+| **Catálogo**                | Página que muestra todas las piezas a la venta |
+| **Carrito**                 | Página donde se visualiza la lista de productos seleccionados para comprar |
+| **Cerámica “a la carta”**   | Muestra información acerca de la posibilidad de personalización de las piezas |
+| **Piezas**                  | Página que muestra las piezas que se pueden personalizar |
+| **Personalización**         | Permite personalizar la pieza seleccionada |
+| **Cursos**                  | Muestra los cursos que se ofertan |
+| **Sesiones únicas**         | Lista de los cursos de sesión única |
+| **Información**             | Información detallada sobre cada curso |
+| **Inscripción**             | Permite apuntarse en un curso |
+| **Talleres anuales**        | Lista de los cursos anuales |
+| **Blog**                    | Página donde se encuentra el blog |
+| **Contacto**                | Página donde se muestran los datos de contacto |
+| **Formulario**              | Formulario para contactar con la empresa |
+
+
 
 
 ### 2.d Wireframes
