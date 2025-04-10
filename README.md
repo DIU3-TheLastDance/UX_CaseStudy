@@ -316,11 +316,32 @@ La siguiente tabla muestra la importancia relativa de cada función para cada ro
 
 
 
-### 2.d Wireframes
+## 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+### Portada
+     Pantalla inicial o portada de la app. Muestra una bienvenida visual con enfoque en la primera impresión del usuario.
+![Método UX](P2/images/portada.png)
+
+### Primer paso de la nueva funcionalidad propuesta
+     Pantalla que muestra la primera opción de personalización de la pieza. Permite al usuario elegir entre diferentes formas y estilos.
+![Método UX](P2/images/paso1.png)
+![Método UX](P2/images/paso1tablet.png)
+![Método UX](P2/images/paso1mobile.png)
+
+### Segundo paso de la nueva funcionalidad propuesta
+     Pantalla que muestra la segunda opción de personalización de la pieza. Permite al usuario elegir entre diferentes colores y texturas.
+![Método UX](P2/images/paso2.png)
+
+### Tercer paso de la nueva funcionalidad propuesta
+     Pantalla que muestra la tercera opción de personalización de la pieza. Permite al usuario elegir entre diferentes acabados y detalles.
+![Método UX](P2/images/paso3.png)
+
+### Cuarto paso de la nueva funcionalidad propuesta
+     Pantalla que muestra la cuarta opción de personalización de la pieza. Permite al usuario ver una vista previa del diseño final y realizar ajustes.
+![Método UX](P2/images/paso4.png)
+
 
 <br>
 
