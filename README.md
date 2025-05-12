@@ -7,18 +7,21 @@ Grupo: DIU3_TheLastDance.  Curso: 2024/25
 
 Actualizado: 26/02/2025
 
-Proyecto: 
+## Proyecto: 
 
 **"Tu huella en la cerámica"** 
 
-Descripción: 
+## Descripción: 
 
 Introducimos un sistema de "Cerámica a la carta", donde los clientes
 pueden diseñar digitalmente su propia pieza, eligiendo formas, colores y
 acabados, y luego un artesano la crea a mano según sus especificaciones.
-Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+
+## Logotipo: 
+
+![Método UX](P3/images/logo_kerarqueo.png)
+
 
 Miembros:
  * :bust_in_silhouette:  Juan Hernández Sánchez-Agesta     😎     
@@ -347,38 +350,110 @@ La siguiente tabla muestra la importancia relativa de cada función para cada ro
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+![Método UX](P3/images/moodboard_kerarqueo.png)
+
+
+#### Herramientas Utilizadas y Resolución
+
+Para el desarrollo visual de este proyecto se utilizó **Figma**, una herramienta de diseño colaborativo que permite trabajar con precisión en interfaces y branding, y facilita la organización de componentes visuales como paletas de colores, tipografías y logotipos.
+
+La elección de Figma se debió a su versatilidad para prototipado rápido, su capacidad de compartir y comentar en tiempo real, y su compatibilidad con sistemas de diseño. Esto ha permitido mantener una coherencia visual en línea con los valores de la marca **Kerarqueo**, que combina historia y diseño artesanal.
+
+La imagen desarrollada sigue las **guidelines establecidas en el moodboard**: tonos tierra, crema y dorados inspirados en la cerámica antigua, una tipografía serif elegante (Sedan SC) que evoca inscripciones clásicas, y un logotipo sobrio con una ánfora estilizada que actúa como símbolo de autenticidad.
+
+La resolución utilizada ha sido pensada para garantizar nitidez en pantallas de escritorio y móviles, optimizando tanto peso como proporción para entornos digitales.
+
+![Método UX](P3/images/logo_kerarqueo.png)
+
+
+
+#### ¿Puede usarse como cabecera de Instagram?
+
+No necesariamente. Aunque la imagen diseñada puede transmitir con fuerza la identidad de marca, **una cabecera de Instagram exige una composición optimizada al formato cuadrado o apaisado muy horizontal (por ejemplo, 1080x566 px)**, además de considerar la legibilidad en dispositivos móviles pequeños.
+
+Dado que el diseño actual prioriza la elegancia y la narrativa visual con espacios en blanco y detalles sutiles, podría **requerir ajustes para funcionar bien en Instagram**, tales como:
+
+- Reencuadre o adaptación de proporciones.
+- Aumento de contraste o visibilidad del logotipo y texto.
+- Eliminación de detalles demasiado finos que podrían perderse en resoluciones menores.
+
+**Conclusión:** se recomienda **crear una versión adaptada específicamente para Instagram**, respetando los elementos gráficos base (colores, logo, tipografía), pero reorganizando la composición para que funcione correctamente como cabecera de red social sin perder legibilidad ni impacto visual.
+
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
-
+![Método UX](P3/images/landing_page.png)
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
+![Método UX](img/guidelines.png)
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+El objetivo principal es conseguir una interfaz sencilla, elegante y altamente intuitiva, que genere confianza en el usuario desde el primer momento.
+
+Para mantener la coherencia visual, se personalizan colores, tipografías y formas, siguiendo el moodboard planteado: tonos tierra, crema, marrones intensos y dorados, evocando antigüedad y exclusividad.
+
+#### Onboarding  
+La primera interacción del usuario con la página transmite una imagen de marca sólida y elegante: el logotipo tradicional en el centro de la cabecera y un claim visible ("Cada pieza, una historia"). Se utiliza una tipografía clásica en color negro y dorado, sobre fondo blanco para dar sensación de apertura y confianza.
+
+#### Menú de Navegación  
+Se emplea una barra superior fija que contiene:  
+- Logotipo a la izquierda  
+- Opciones de navegación ("Nosotros", "Talleres", "Personalizar", "Contacto")  
+- Botón destacado de "Catálogo"  
+- Íconos de carrito y login  
+
+En dispositivos móviles, la barra se repliega en un menú tipo hamburguesa accesible en un solo toque.
+
+#### Hero Image  
+La imagen principal muestra una escena cultural poderosa: una persona observando bustos históricos.
+
+#### Wizards  
+En la sección "Personalizar", se emplea un sistema de pasos (wizard) que guía al usuario a través de:  
+1. Elección de la pieza  
+2. Personalización (forma, color, acabado, mensaje o firma)  
+3. Confirmación de unidades y método de envío  
+4. Comentarios adicionales y reserva
+
+#### Article List  
+En la vista de catálogo, se utiliza un sistema de tarjetas (cards). Cada pieza se representa con una imagen y su nombre.  
+El diseño se adapta a cuatro columnas en escritorio y una sola columna en dispositivos móviles.
+
+#### Item Details + Actions  
+Al seleccionar una pieza, se muestra una vista ampliada con:  
+- Imagen detallada  
+- Información histórica/artística  
+- Precio  
+- Selector de cantidad  
+- Botón "Añadir al carrito"
+
+#### Form Input  
+Los campos de formulario se presentan de forma clara, con etiquetas flotantes.  
+Los errores se muestran de forma visible, con mensajes de ayuda accesibles.
+
+#### Shopping Cart  
+El ícono del carrito es siempre visible en la barra inferior.  
+Al pulsarlo, se accede al resumen de compra con opciones para:  
+- Modificar cantidades  
+- Eliminar productos  
+- Proceder al pago
+
+#### About  
+La sección "Nosotros" narra la historia de Kerarqueo a través de texto breve e imágenes del taller, artesanos y piezas, reforzando el vínculo emocional con el usuario.
+ 
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Para ver el Mockup de nuestra app, para la parte del usuario, pincha en el siguiente enlace: [Mockup](https://www.figma.com/proto/6JL1EnpViqFSsr9AJFm6Z9/Mockup?node-id=2-2&p=f&t=6VkBxma5ryabwPM1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
 
 
 ### 3.e ¿My UX-Case Study?
