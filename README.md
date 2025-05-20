@@ -453,7 +453,7 @@ La sección "Nosotros" narra la historia de Kerarqueo a través de texto breve e
 ![Método UX](img/mockup.png) 
 ----
 
-Para ver el Mockup de nuestra app, para la parte del usuario, pincha en el siguiente enlace: [Mockup](https://www.figma.com/proto/6JL1EnpViqFSsr9AJFm6Z9/Mockup?node-id=2-2&p=f&t=6VkBxma5ryabwPM1-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
+Para ver el Mockup de nuestra app, para la parte del usuario, pincha en el siguiente enlace: [Mockup](https://www.figma.com/proto/6JL1EnpViqFSsr9AJFm6Z9/Mockup?node-id=2-2&p=f&t=iMlZPGDHPe7mGEyj-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
 
 
 ### 3.e ¿My UX-Case Study?
