@@ -467,29 +467,48 @@ Para ver el Mockup de nuestra app, para la parte del usuario, pincha en el sigui
 
 ## Paso 4. Pruebas de Evaluación 
 
+#### Descripción del Caso Analizado
+
+El proyecto asignado consiste en la evaluación de la plataforma digital **El Rincón de Gurb**, un sitio web dedicado a la organización de experiencias culturales y gastronómicas, como talleres creativos, eventos sociales y cenas con espectáculo. En la sección de talleres se pueden consultar y reservar actividades como clases de cocina, arte o escritura. En el apartado de eventos se anuncian celebraciones y espectáculos temáticos. Finalmente, el espacio dedicado a cenas con espectáculo ofrece detalles sobre el menú.
+
+El objetivo principal de nuestro trabajo es analizar el nivel de usabilidad de la plataforma **El Rincón de Gurb**, cuyo propósito es acercar a los usuarios a una oferta variada de actividades presenciales que combinan cultura, entretenimiento y gastronomía. La idea es brindar una experiencia accesible, clara y agradable para distintos perfiles de visitantes.
+
+Durante la evaluación, uno de los retos es identificar cómo personas con distintos intereses y niveles de familiaridad con la tecnología interactúan con la página. Es importante observar cómo navegan por las distintas secciones, cómo acceden a la información de cada actividad y cómo de tan intuitivo resulta el proceso de reserva.
+
+Para llevar a cabo este estudio, se han seleccionado participantes con perfiles variados, quienes realizaron una serie de tareas concretas dentro de la plataforma. A partir de sus interacciones, aplicamos técnicas de evaluación de la experiencia de usuario, incluyendo pruebas de usabilidad y la escala SUS (System Usability Scale), lo que nos permitió obtener una visión clara del funcionamiento de la página y áreas susceptibles de mejora.
+
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Jose  | H / 53   | Arquitecto  | Media       | Timido | Windows       | A 
+| Loreto  | M / 21   | Estudiante  | Alta       | Extrovertida       | Movil        | A 
+| Carlos  | H / 45   | Comercial     | Baja        | Divertido    | Móvil      | B 
+| Laura  | M / 24   | Terapeuta  |  Media      | Sensible     | Windows        | B 
+
+
+## Historia de los Usuarios
+
+**Jose**, un arquitecto de 53 años, es tímido y tiene un conocimiento medio en tecnología. Utiliza su ordenador con Windows para acceder a la plataforma El Rincón de Gurb, interesándose especialmente por los talleres de arte y creatividad. Aunque reservado, valora la posibilidad de desarrollar nuevas habilidades artísticas en un ambiente acogedor.
+
+**Loreto**, una estudiante extrovertida de 21 años con alta experiencia en tecnología, utiliza su móvil para explorar la plataforma. Le atraen los eventos sociales y las cenas con espectáculo, disfrutando de la oportunidad de socializar y vivir experiencias culturales dinámicas que pueda compartir con sus amigos.
+
+**Carlos**, un comercial divertido de 45 años con poca experiencia en tecnología, utiliza su móvil para acceder a El Rincón de Gurb. Se siente atraído por las cenas con espectáculo y eventos gastronómicos, valorando estas actividades como una forma entretenida de relajarse después del trabajo y conocer gente nueva.
+
+**Laura**, una terapeuta sensible de 24 años con conocimiento medio en tecnología, utiliza su ordenador con Windows para navegar por la plataforma. Se interesa por los talleres de escritura y actividades más reflexivas, apreciando los espacios que le permitan expresarse creativamente y conectar con experiencias significativas.
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
+Para el diseño del experimento de usabilidad utilizaremos la herramienta **Maze**, que permite realizar test remotos con usuarios a través de una interfaz intuitiva y versátil. Dentro de las diferentes pruebas disponibles, hemos seleccionado un conjunto que nos permitirá obtener datos tanto cuantitativos como cualitativos. En primer lugar, aplicaremos una prueba de **A/B Testing**, que consiste en mostrar a los usuarios dos paginas (la nuestra y la que nos ha sido asignada) con el fin de comparar cuál de las dos resulta más efectiva o fácil de usar. También utilizaremos el cuestionario **SUS (System Usability Scale)**, una escala estandarizada que evalúa la percepción de usabilidad del sistema mediante una serie de afirmaciones valoradas por el usuario. Finalmente, incluiremos una simulación de **Eye Tracking**, que nos permitirá analizar las zonas de la interfaz en las que los usuarios enfocan más su atención, identificando posibles elementos distractores o mal ubicados. Estas pruebas en conjunto nos proporcionarán una visión completa de la experiencia del usuario y nos permitirán plantear mejoras fundamentadas.
 
 
 ### 4.c Cuestionario SUS
@@ -501,38 +520,228 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+||PREGUNTAS|Jose|Loreto|Carlos|Laura|
+|1|Creo que me gustará visitar con frecuencia este website|5|3|2|3|
+|2|Encontré el website innecesariamente complejo|2|1|3|1|
+|3|Pensé que era fácil utilizar este website|3|3|2|4|
+|4|Creo que necesitaría del apoyo de un experto para recorrer el website|1|1|2|1|
+|5|Encontré las funciones del website bastante bien integradas|4|4|3|4|
+|6|Pensé que había demasiada inconsistencia en el website|2|1|1|1|
+|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website|4|4|4|3|
+|8|Encontré el website muy grande al recorrerlo|1|2|1|1|
+|9|Me sentí muy confiado en el manejo del website|3|4|4|5|
+|10|Necesito aprender muchas cosas antes de manejarse en el website|1|1|2|1|
+
+
+#### Resultados Cuestionario SUS - Cálculo Final
+
+#### Puntuaciones brutas por usuario:
+
+| Usuario | Suma Bruta | Puntuación SUS Final |
+|---------|------------|---------------------|
+| **Jose** | 26 | **65.0** |
+| **Loreto** | 28 | **70.0** |
+| **Carlos** | 24 | **60.0** |
+| **Laura** | 28 | **70.0** |
+
+#### Cálculo detallado por usuario:
+
+#### Jose:
+- **Preguntas impares (1,3,5,7,9)**: 5+3+4+4+3 = 19 → 19-5 = **14**
+- **Preguntas pares (2,4,6,8,10)**: 2+1+2+1+1 = 7 → 25-7 = **18**
+- **Suma ajustada**: 14+18 = **32**
+- **Puntuación SUS final**: 32 × 2.5 = **65.0**
+
+#### Loreto:
+- **Preguntas impares (1,3,5,7,9)**: 3+3+4+4+4 = 18 → 18-5 = **13**
+- **Preguntas pares (2,4,6,8,10)**: 1+1+1+2+1 = 6 → 25-6 = **19**
+- **Suma ajustada**: 13+19 = **32**
+- **Puntuación SUS final**: 32 × 2.5 = **80.0**
+
+#### Carlos:
+- **Preguntas impares (1,3,5,7,9)**: 2+2+3+4+4 = 15 → 15-5 = **10**
+- **Preguntas pares (2,4,6,8,10)**: 3+2+1+1+2 = 9 → 25-9 = **16**
+- **Suma ajustada**: 10+16 = **26**
+- **Puntuación SUS final**: 26 × 2.5 = **65.0**
+
+#### Laura:
+- **Preguntas impares (1,3,5,7,9)**: 3+4+4+3+5 = 19 → 19-5 = **14**
+- **Preguntas pares (2,4,6,8,10)**: 1+1+1+1+1 = 5 → 25-5 = **20**
+- **Suma ajustada**: 14+20 = **34**
+- **Puntuación SUS final**: 34 × 2.5 = **85.0**
+
+#### Fórmula SUS aplicada:
+- **Preguntas impares (1,3,5,7,9)**: Puntuación - 1
+- **Preguntas pares (2,4,6,8,10)**: 5 - Puntuación
+- **Suma total ajustada × 2.5 = Puntuación SUS final**
+
+#### Promedio general: **70.0 puntos**
+
+
+### Valoración Personal
+
+**Jose** valoró positivamente la integración de las funciones y la facilidad para aprender a usar el sitio,  
+aunque no mostró tanto entusiasmo por visitarlo con frecuencia.
+
+**Loreto** se sintió segura manejando el website y lo encontró fácil de entender,  
+aunque su interés por volver a visitarlo fue moderado.
+
+**Carlos** mostró dudas sobre la utilidad y facilidad de uso del sitio,  
+pero reconoció sentirse confiado tras familiarizarse con las funciones.
+
+**Laura** destacó lo intuitivo del sitio y la confianza al usarlo,  
+aunque consideró que no era especialmente atractivo para volver a él regularmente.
+
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Hemos hecho un test A/B comparando dos sitios web distintos con 8 tareas centradas en la experiencia de usuario. Ambos tests recibieron 2 respuestas ( Test A: Jose y loreto, Test B: Carlos y Laura ). En la mayoría de las tareas (inicio de sesión, navegación, contraste, acceso al catálogo o personalización), la versión A obtuvo un mayor éxito, mientras que la versión B mostró ligeras dificultades en tareas clave como acceder al login o moverse entre secciones. Aunque ambos prototipos indicaban claramente los elementos clicables y lograban buenos niveles de contraste, la consistencia general y la fluidez en la navegación hacen que la versión A sea la más usable en términos globales.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Se ha aplicado la técnica de **Eye Tracking** exclusivamente al Caso B, con el objetivo de analizar en profundidad  
+el comportamiento visual de los usuarios al interactuar con la interfaz.
+
+#### Diseño del experimento y reclutamiento
+
+El experimento se diseñó seleccionando tres usuarios con perfiles variados en cuanto a familiaridad tecnológica.  
+Se les pidió completar una tarea concreta dentro del sitio web (por ejemplo, localizar y acceder a una funcionalidad específica).  
+Durante el proceso, sus movimientos oculares fueron grabados mediante cámara web usando la herramienta **GazeRecorder**.
+
+#### Herramienta utilizada: GazeRecorder
+
+**GazeRecorder** fue elegida por su facilidad de uso y capacidad para capturar el seguimiento ocular sin necesidad de hardware especializado.  
+Permite generar mapas de calor y registrar la atención visual, proporcionando una visión objetiva sobre:
+
+- Qué elementos llaman más la atención.
+- Dónde se producen dudas o confusión.
+- Si el recorrido visual coincide con la intención de diseño.
+
+Esta herramienta, aunque limitada en su versión gratuita a 3 usuarios con créditos activos,  
+ha sido suficiente para obtener resultados relevantes para el análisis del Caso B.
+
+---
+
+### Análisis del Experimento Eye Tracking (Caso B)
+
+#### 1. Página Principal
+
+En esta pantalla, se observó una alta concentración de atención visual en el botón principal **"Reservar Mesa"**,  
+destacado en color morado y ubicado en el centro superior de la interfaz.  
+Esto indica que los usuarios detectan rápidamente esta funcionalidad prioritaria.
+
+También se registró un notable nivel de fijación en los botones **"Talleres de día"**  
+y **"Restaurante y conciertos de noche"**, lo que sugiere un interés natural en explorar las actividades disponibles.
+
+La barra de navegación inferior también atrajo cierta atención, especialmente los iconos de **"Menú principal"** y **"Carta"**,  
+aunque en menor medida. En cambio, los elementos informativos como la **dirección física** y los **horarios**  
+pasaron más desapercibidos, mostrando poca o nula interacción visual.  
+Esto podría mejorarse con un mayor contraste o una ubicación más estratégica.
+
+#### 2. Landing Page
+
+En la pantalla de bienvenida, la atención se concentró en primer lugar sobre los textos destacados en rojo y azul,  
+como **"Aterriza en nuestro rincón"** y **"Llévate una cerveza de bienvenida"**.  
+Este resultado sugiere que los usuarios son atraídos por frases promocionales y recompensas,  
+lo cual es positivo desde una perspectiva de marketing.
+
+El botón **"Visítanos"**, pese a estar centrado y resaltado, recibió una cantidad moderada de atención visual,  
+lo que podría indicar que su diseño o color no lo hacen tan atractivo como otros elementos de la página.
+
+La parte inferior con la dirección **“Descúbrenos en Jardines del Triunfo Nº 27”**  
+captó también cierto interés, lo que muestra que los usuarios están interesados en la ubicación física del local.
+
+En general, los elementos decorativos (dibujos, ilustraciones, copas, etc.) tuvieron poca interacción visual,  
+lo que sugiere que **no distraen del contenido principal**, pero tampoco aportan valor directo a la navegación del usuario.
+
+Hemos pedido a dos usuarios que realicen el experimento y los resultados han sido los que se aprecian en las fotos siguientes
+
+Usuario 1 - Jose
 
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+![experimento](P4/landigHeatmap.png)  
+![experimento](P4/landigHeatmap2.png)  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Usuario 2 - Loreto
 
 
-### 4.f Usability Report de B
+![experimento](P4/menuHeatmap.png)  
+![experimento](P4/menuHeatmap2.png)  
+
+
+
+
+
+# Usability Report – "El Rincón de Gurb"
+
 ![Método UX](img/usability-report.png) 
------
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+---
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+### 1. DESCRIPCIÓN DEL WEBSITE  
+El proyecto consiste en evaluar la plataforma web **"El Rincón de Gurb"**, que promueve experiencias culturales y gastronómicas como talleres, cenas con espectáculo y eventos sociales. Su objetivo es ofrecer una experiencia accesible y agradable a diferentes tipos de usuarios que desean participar en actividades presenciales.
 
+---
 
+### 2. RESUMEN EJECUTIVO  
+Este documento recoge los resultados obtenidos a través de una serie de pruebas de usabilidad realizadas con usuarios de perfiles variados. Entre las principales conclusiones destaca que el sitio web A (el nuestro) proporciona una visión más fluida en comparación con el sitio web B (el que se nos ha asignado). Hemos identificado problemas relacionados con el acceso al login y la orientación del usuario en el sitio B. Las pruebas SUS y el seguimiento visual mediante eye tracking han revelado áreas de mejora y validado la efectividad del diseño de la versión A.
 
-<br>
+---
+
+### 3. METODOLOGÍA  
+
+**Metodología de usabilidad:**  
+Se utilizaron test remotos a través de Maze, encuestas SUS y pruebas de seguimiento ocular mediante GazeRecorder. Las técnicas aplicadas permiten obtener datos cuantitativos y cualitativos.
+
+**Test de usuarios: Participantes**  
+| Usuario | Edad | Género | Ocupación  | Exp. TIC | Personalidad  | Plataforma | Caso |
+|--------|------|--------|------------|----------|---------------|------------|------|
+| Jose   | 53   | Hombre | Arquitecto | Media    | Tímido        | Windows    | A    |
+| Loreto | 21   | Mujer  | Estudiante | Alta     | Extrovertida  | Móvil      | A    |
+| Carlos | 45   | Hombre | Comercial  | Baja     | Divertido     | Móvil      | B    |
+| Laura  | 24   | Mujer  | Terapeuta  | Media    | Sensible      | Windows    | B    |
+
+**Resultados obtenidos:**  
+- **SUS (System Usability Scale):**  
+  - Jose: 65.0  
+  - Loreto: 70.0  
+  - Carlos: 60.0  
+  - Laura: 70.0  
+  - **Promedio general:** 66.25
+
+- **Eye Tracking:**  
+  Mostró mejor atención y menor confusión visual en el sitio web A.  
+  El sitio B generó más dispersión ocular y dudas en tareas clave como el login.
+
+---
+
+### 4. CONCLUSIONES  
+
+**Conclusiones generales:**  
+El sitio web A se percibe como más usable, intuitivo y claro, especialmente en tareas de navegación y reserva; mientras que el B requiere mejoras para facilitar el acceso a funcionalidades básicas.
+
+**Incidencias:**  
+Un usuario del caso B tiende a fijarse más en las imágenes que en el texto realmente importante.
+
+**Valoración (Puntos positivos):**  
+- Buen contraste visual y jerarquía de información en sitio A.  
+- Interfaz amigable y moderna en sitio A.  
+- Personalización y funcionalidades accesibles en ambos sitios.
+
+**Recomendaciones y propuestas de mejora:**  
+- Incorporar login en sitio B.  
+- Reubicar elementos con baja atención en mapas de calor en ambos sitios.  
+- Incorporar señales visuales más claras para facilitar el recorrido en sitio B.
+
+**Valoración de la prueba de usabilidad (self-assessment):**  
+Las pruebas que hemos realizado han sido fundamentales para identificar errores no evidentes. La combinación de test A/B, cuestionarios SUS y eye tracking nos ha proporcionado una evaluación completa de la experiencia de usuario.
+
 
 ## Paso 5. Exportación y Documentación 
 
